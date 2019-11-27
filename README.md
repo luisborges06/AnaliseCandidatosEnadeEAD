@@ -10,5 +10,5 @@ Acesso aos dados dos candidatos do ENADE, entre 2010 e 2017, que fazem a modalid
 
 4ª ETAPA: será apresentado um gráfico simples que PALAVRA QUE FALTA os resultados analisados.
 
-Dados originais se encontram no site do INEP, seção ENADE:
+Dados originais encontram se no site do INEP, seção ENADE:
 http://portal.inep.gov.br/web/guest/microdados
