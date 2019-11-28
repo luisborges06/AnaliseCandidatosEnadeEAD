@@ -8,7 +8,7 @@ Acesso aos dados dos candidatos do ENADE, entre 2010 e 2017, que fazem a modalid
 
 3ª ETAPA:  será mostrado, por ano, o resultado total de candidatos que correspondem à análise e o total de candidatos analisados. Após a análise por ano, será mostrado o total de candidatos que corresponderam a análise de 2010 a 2017.
 
-4ª ETAPA: será apresentado um gráfico simples que PALAVRA QUE FALTA os resultados analisados.
+4ª ETAPA: será apresentado um gráfico simples, em 2D, que irá representar os resultados analisados.
 
 Dados originais encontram se no site do INEP, seção ENADE:
 http://portal.inep.gov.br/web/guest/microdados
