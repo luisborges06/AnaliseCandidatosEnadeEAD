@@ -1,6 +1,6 @@
 # ENADE - Analise de Canditados que fazem EAD
 
-Acesso aos dados dos candidatos do ENADE, entre 2010 e 2017, que fazem a modalidade de ensino EAD (Educação à Distância). A análise será feita seguindo as etapas abaixo:
+Acesso aos dados dos candidatos do ENADE, entre 2010 e 2017, que fazem a modalidade de ensino EAD (Ensino à Distância). A análise será feita seguindo as etapas abaixo:
 
 1ª etapa: verifica todos os candidatos do ENADE que fazem EAD;
 
